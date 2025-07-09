@@ -63,3 +63,24 @@ footer {
   background-color: #1e1e1e;
   color: #aaa;
 }
+.news-card.upi {
+  background-color: #fff8e1;
+  border: 2px dashed #ffa000;
+  text-align: center;
+}
+
+.news-card.upi img {
+  width: 150px;
+  height: auto;
+  margin: 10px auto;
+  display: block;
+}
+
+.news-card.upi p {
+  font-size: 0.95em;
+  color: #444;
+}
+
+.news-card.upi h3 {
+  color: #ff8f00;
+}
